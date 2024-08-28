@@ -1,6 +1,6 @@
 [
     {
-        "soal": "Hotel Bintang 5 Jakarta",
+        "soal": "تيتش",
         "jawaban": [
             "sheraton",
             "the westin",
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "soal": "Perlengkapan Sekolah Anak Tk",
+        "soal": "نامي",
         "jawaban": [
-            "pensil",
+            "نامي",
             "botol minum",
             "pensil warna",
             "sapu tangan",
@@ -22,10 +22,10 @@
         ]
     },
     {
-        "soal": "Disaat Apa Saja Orang Membawa Kamera",
+        "soal": "لاو",
         "jawaban": [
-            "ulang tahun",
-            "pesta",
+            "لاو",
+            "تراو",
             "pernikahan",
             "piknik",
             "wisuda",
